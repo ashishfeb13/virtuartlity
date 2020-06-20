@@ -1,0 +1,113 @@
+Hi Ashish
+Here is the project scope. You can take the main points from it for
+the landing page.
+Zip of the template attached.
+
+-------
+
+Project: VirtuArtlity
+
+Mission: Develop & Advance Art & Culture in the Middle East.
+
+Vision: We are a virtual art market place called VirtuArtlity. We
+showcase and sell artwork of Academically-trained, Realist, Trendy
+artists from the Middle East to the Middle East.
+
+
+
+Project scope:
+
+- Create stylish, minimalistic, but elegant Online Platform; - easy on
+the eye and easy to use
+
+
+
+Pages
+
+Landing page
+
+Art portfolio page(s)
+
+Registered Artist page
+
+Registered User page
+
+Payment page
+
+
+
+Content
+
+Landing page:
+
+- Public content
+
+               - Menu (Overview, news/blogpost, events/webinars,
+benefits/Unique offering)
+
+                              - overview (Who we are, what we do, why we do it);
+
+               - search
+
+               - sign in/register
+
+               - At bottom of page (site map, contact us, terms & conditions)
+
+               - Artist list
+
+Artist profile page
+
+               - For each artist:
+
+- Profile and credentials;
+
+- Portfolio of paintings;
+
+- Pricing;
+
+- Possibility of placing orders for Custom Artwork;
+
+Login screen
+
+Profile page
+
+Members only area
+
+- Registered user content?
+
+Artist or purchaser?
+
+- Artists
+
+- Easy profile & portfolio upload;
+
+- Postings to be approved by Admin (Due to sensitive topics, not all
+artworks can be accepted);
+
+- Get feedback & statistics;
+
+- Get orders for their paintings;
+
+- Conduct Webinars, Podcasts, Share their exhibitions & Events.
+
+Payment page
+
+- Shopping Cart with ability to select several different artworks and
+purchase them online;
+
+- Process online payment;
+
+- Content of previous Webinars (recordings and Presentations);
+
+- Ability to interact with the artists: Like, Post comments,etc.
+
+
+
+Functionality
+
+Should include:
+
+- Process overview: functionality, order process, process for artists
+to sign up, etc.
+
+--------------------------------------------
